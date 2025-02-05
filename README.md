@@ -7,6 +7,7 @@ Daily problem solved
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agraharisatyam/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/agraharisatyam/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/agraharisatyam/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/agraharisatyam/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -17,6 +18,7 @@ Daily problem solved
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/agraharisatyam/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/agraharisatyam/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agraharisatyam/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/agraharisatyam/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/agraharisatyam/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2465-shifting-letters-ii](https://github.com/agraharisatyam/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -73,6 +75,7 @@ Daily problem solved
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/agraharisatyam/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agraharisatyam/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/agraharisatyam/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
