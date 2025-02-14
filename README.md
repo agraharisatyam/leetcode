@@ -41,6 +41,7 @@ Daily problem solved
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/agraharisatyam/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/agraharisatyam/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/agraharisatyam/leetcode/tree/master/2145-grid-game) |
@@ -52,6 +53,7 @@ Daily problem solved
 | [0854-making-a-large-island](https://github.com/agraharisatyam/leetcode/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/agraharisatyam/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/agraharisatyam/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/agraharisatyam/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/agraharisatyam/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/agraharisatyam/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -186,6 +188,7 @@ Daily problem solved
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/agraharisatyam/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -194,5 +197,10 @@ Daily problem solved
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
