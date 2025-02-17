@@ -6,6 +6,7 @@ Daily problem solved
 ## Hash Table
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/agraharisatyam/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/agraharisatyam/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agraharisatyam/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -20,6 +21,7 @@ Daily problem solved
 ## String
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/agraharisatyam/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/agraharisatyam/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/agraharisatyam/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -88,6 +90,7 @@ Daily problem solved
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/agraharisatyam/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/agraharisatyam/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/agraharisatyam/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -208,6 +211,7 @@ Daily problem solved
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/agraharisatyam/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/agraharisatyam/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/agraharisatyam/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
