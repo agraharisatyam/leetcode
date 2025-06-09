@@ -49,6 +49,7 @@ Daily problem solved
 | [3447-clear-digits](https://github.com/agraharisatyam/leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/agraharisatyam/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/agraharisatyam/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/agraharisatyam/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Daily problem solved
 | [2551-apply-operations-to-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/agraharisatyam/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/agraharisatyam/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -334,4 +336,5 @@ Daily problem solved
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/agraharisatyam/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/agraharisatyam/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
