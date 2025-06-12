@@ -117,6 +117,7 @@ Daily problem solved
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/agraharisatyam/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/agraharisatyam/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/agraharisatyam/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/agraharisatyam/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## String Matching
 |  |
 | ------- |
