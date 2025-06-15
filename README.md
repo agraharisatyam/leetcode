@@ -128,6 +128,7 @@ Daily problem solved
 | [0135-candy](https://github.com/agraharisatyam/leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/agraharisatyam/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/agraharisatyam/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/agraharisatyam/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/agraharisatyam/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/agraharisatyam/leetcode/tree/master/2509-minimize-xor) |
@@ -265,6 +266,7 @@ Daily problem solved
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/agraharisatyam/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/agraharisatyam/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/agraharisatyam/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2448-count-number-of-bad-pairs) |
