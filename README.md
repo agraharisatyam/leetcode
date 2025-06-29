@@ -91,6 +91,7 @@ Daily problem solved
 | [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/agraharisatyam/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/agraharisatyam/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/agraharisatyam/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/agraharisatyam/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/agraharisatyam/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -249,6 +250,7 @@ Daily problem solved
 ## Sorting
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/agraharisatyam/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/agraharisatyam/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/agraharisatyam/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -329,6 +331,7 @@ Daily problem solved
 ## Two Pointers
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/agraharisatyam/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2551-apply-operations-to-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/agraharisatyam/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -347,6 +350,7 @@ Daily problem solved
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/agraharisatyam/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/agraharisatyam/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/agraharisatyam/leetcode/tree/master/3643-zero-array-transformation-ii) |
