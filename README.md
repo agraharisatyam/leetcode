@@ -16,6 +16,7 @@ Daily problem solved
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/agraharisatyam/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agraharisatyam/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/agraharisatyam/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/agraharisatyam/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/agraharisatyam/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/agraharisatyam/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -106,6 +107,7 @@ Daily problem solved
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/agraharisatyam/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/agraharisatyam/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/agraharisatyam/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/agraharisatyam/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/agraharisatyam/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/agraharisatyam/leetcode/tree/master/2145-grid-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/agraharisatyam/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -278,6 +280,7 @@ Daily problem solved
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/agraharisatyam/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/agraharisatyam/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/agraharisatyam/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
