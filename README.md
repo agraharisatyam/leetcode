@@ -135,6 +135,7 @@ Daily problem solved
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/agraharisatyam/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/agraharisatyam/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/agraharisatyam/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/agraharisatyam/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/agraharisatyam/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## String Matching
 |  |
@@ -153,6 +154,7 @@ Daily problem solved
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/agraharisatyam/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/agraharisatyam/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/agraharisatyam/leetcode/tree/master/2509-minimize-xor) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/agraharisatyam/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Counting
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Daily problem solved
 | [2202-sum-of-k-mirror-numbers](https://github.com/agraharisatyam/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/agraharisatyam/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/agraharisatyam/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/agraharisatyam/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Trie
 |  |
 | ------- |
