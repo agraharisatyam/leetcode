@@ -302,6 +302,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/agraharisatyam/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/agraharisatyam/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/agraharisatyam/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -410,4 +411,8 @@ Daily problem solved
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/agraharisatyam/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/agraharisatyam/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/agraharisatyam/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
