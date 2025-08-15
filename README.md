@@ -64,6 +64,7 @@ Daily problem solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/agraharisatyam/leetcode/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/agraharisatyam/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/agraharisatyam/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/agraharisatyam/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -301,6 +302,7 @@ Daily problem solved
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/agraharisatyam/leetcode/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/agraharisatyam/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/agraharisatyam/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/agraharisatyam/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -409,6 +411,7 @@ Daily problem solved
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/agraharisatyam/leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/agraharisatyam/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/agraharisatyam/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
