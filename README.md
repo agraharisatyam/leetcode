@@ -35,6 +35,7 @@ Daily problem solved
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/agraharisatyam/leetcode/tree/master/0165-compare-version-numbers) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/agraharisatyam/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/agraharisatyam/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -365,6 +366,7 @@ Daily problem solved
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/agraharisatyam/leetcode/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/agraharisatyam/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/agraharisatyam/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2551-apply-operations-to-an-array) |
