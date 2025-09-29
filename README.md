@@ -96,6 +96,7 @@ Daily problem solved
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/agraharisatyam/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/agraharisatyam/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/agraharisatyam/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1364-tuple-with-same-product](https://github.com/agraharisatyam/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/agraharisatyam/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/agraharisatyam/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -361,6 +362,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agraharisatyam/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/agraharisatyam/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/agraharisatyam/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/agraharisatyam/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
