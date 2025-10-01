@@ -119,6 +119,7 @@ Daily problem solved
 | [2145-grid-game](https://github.com/agraharisatyam/leetcode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/agraharisatyam/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/agraharisatyam/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/agraharisatyam/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/agraharisatyam/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -291,6 +292,7 @@ Daily problem solved
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/agraharisatyam/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/agraharisatyam/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/agraharisatyam/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/agraharisatyam/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -319,6 +321,7 @@ Daily problem solved
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/agraharisatyam/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/agraharisatyam/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/agraharisatyam/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/agraharisatyam/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -402,6 +405,7 @@ Daily problem solved
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/agraharisatyam/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
