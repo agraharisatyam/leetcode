@@ -296,6 +296,7 @@ Daily problem solved
 | [2324-find-triangular-sum-of-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/agraharisatyam/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-water-bottles-ii](https://github.com/agraharisatyam/leetcode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/agraharisatyam/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/agraharisatyam/leetcode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/agraharisatyam/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -330,6 +331,7 @@ Daily problem solved
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/agraharisatyam/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3201-distribute-candies-among-children-ii](https://github.com/agraharisatyam/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/agraharisatyam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/agraharisatyam/leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/agraharisatyam/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/agraharisatyam/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Data Stream
