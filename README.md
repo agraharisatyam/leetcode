@@ -90,6 +90,7 @@ Daily problem solved
 | ------- |
 | [0135-candy](https://github.com/agraharisatyam/leetcode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/agraharisatyam/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/agraharisatyam/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/agraharisatyam/leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agraharisatyam/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -196,6 +197,7 @@ Daily problem solved
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/agraharisatyam/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/agraharisatyam/leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/agraharisatyam/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/agraharisatyam/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/agraharisatyam/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -223,6 +225,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/agraharisatyam/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/agraharisatyam/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/agraharisatyam/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/agraharisatyam/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -233,6 +236,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/agraharisatyam/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/agraharisatyam/leetcode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/agraharisatyam/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/agraharisatyam/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -250,6 +254,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/agraharisatyam/leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/agraharisatyam/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/agraharisatyam/leetcode/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -263,6 +268,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/agraharisatyam/leetcode/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/agraharisatyam/leetcode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/agraharisatyam/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/agraharisatyam/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -400,6 +406,7 @@ Daily problem solved
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/agraharisatyam/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/agraharisatyam/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/agraharisatyam/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
