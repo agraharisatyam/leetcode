@@ -53,6 +53,7 @@ Daily problem solved
 | [2107-find-unique-binary-string](https://github.com/agraharisatyam/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/agraharisatyam/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/agraharisatyam/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/agraharisatyam/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/agraharisatyam/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/agraharisatyam/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/agraharisatyam/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -123,6 +124,7 @@ Daily problem solved
 | [2145-grid-game](https://github.com/agraharisatyam/leetcode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/agraharisatyam/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/agraharisatyam/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/agraharisatyam/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/agraharisatyam/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -249,6 +251,7 @@ Daily problem solved
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/agraharisatyam/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/agraharisatyam/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/agraharisatyam/leetcode/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/agraharisatyam/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2685-first-completely-painted-row-or-column](https://github.com/agraharisatyam/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/agraharisatyam/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/agraharisatyam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -338,6 +341,7 @@ Daily problem solved
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/agraharisatyam/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/agraharisatyam/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/agraharisatyam/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/agraharisatyam/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/agraharisatyam/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/agraharisatyam/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
