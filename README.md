@@ -33,6 +33,7 @@ Daily problem solved
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/agraharisatyam/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/agraharisatyam/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/agraharisatyam/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agraharisatyam/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/agraharisatyam/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
@@ -148,6 +149,7 @@ Daily problem solved
 | [3429-special-array-i](https://github.com/agraharisatyam/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/agraharisatyam/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/agraharisatyam/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agraharisatyam/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-zero-array-transformation-ii](https://github.com/agraharisatyam/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/agraharisatyam/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/agraharisatyam/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -350,6 +352,7 @@ Daily problem solved
 | [3201-distribute-candies-among-children-ii](https://github.com/agraharisatyam/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/agraharisatyam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/agraharisatyam/leetcode/tree/master/3336-water-bottles-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/agraharisatyam/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/agraharisatyam/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/agraharisatyam/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Data Stream
