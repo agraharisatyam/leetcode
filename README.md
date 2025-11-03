@@ -47,6 +47,7 @@ Daily problem solved
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/agraharisatyam/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/agraharisatyam/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agraharisatyam/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/agraharisatyam/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/agraharisatyam/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/agraharisatyam/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -113,6 +114,7 @@ Daily problem solved
 | [1612-avoid-flood-in-the-city](https://github.com/agraharisatyam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/agraharisatyam/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agraharisatyam/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/agraharisatyam/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/agraharisatyam/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/agraharisatyam/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -167,6 +169,7 @@ Daily problem solved
 | [1502-construct-k-palindrome-strings](https://github.com/agraharisatyam/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/agraharisatyam/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/agraharisatyam/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agraharisatyam/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/agraharisatyam/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/agraharisatyam/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/agraharisatyam/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -394,6 +397,7 @@ Daily problem solved
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/agraharisatyam/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/agraharisatyam/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/agraharisatyam/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/agraharisatyam/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/agraharisatyam/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/agraharisatyam/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
