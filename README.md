@@ -73,6 +73,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/agraharisatyam/leetcode/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/agraharisatyam/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/agraharisatyam/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/agraharisatyam/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/agraharisatyam/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -401,6 +402,7 @@ Daily problem solved
 | [1170-shortest-common-supersequence](https://github.com/agraharisatyam/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/agraharisatyam/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/agraharisatyam/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/agraharisatyam/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/agraharisatyam/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/agraharisatyam/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/agraharisatyam/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -459,6 +461,7 @@ Daily problem solved
 ## Memoization
 |  |
 | ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/agraharisatyam/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/agraharisatyam/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Recursion
 |  |
