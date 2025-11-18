@@ -97,6 +97,7 @@ Daily problem solved
 | ------- |
 | [0135-candy](https://github.com/agraharisatyam/leetcode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/agraharisatyam/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/agraharisatyam/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/agraharisatyam/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/agraharisatyam/leetcode/tree/master/0854-making-a-large-island) |
