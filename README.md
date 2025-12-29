@@ -6,6 +6,7 @@ Daily problem solved
 ## Hash Table
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/agraharisatyam/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/agraharisatyam/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/agraharisatyam/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -40,6 +41,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/agraharisatyam/leetcode/tree/master/0165-compare-version-numbers) |
+| [0756-pyramid-transition-matrix](https://github.com/agraharisatyam/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/agraharisatyam/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/agraharisatyam/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -73,6 +75,7 @@ Daily problem solved
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/agraharisatyam/leetcode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/agraharisatyam/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/agraharisatyam/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/agraharisatyam/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/agraharisatyam/leetcode/tree/master/2509-minimize-xor) |
@@ -374,6 +377,7 @@ Daily problem solved
 ## Backtracking
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/agraharisatyam/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/agraharisatyam/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/agraharisatyam/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/agraharisatyam/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
