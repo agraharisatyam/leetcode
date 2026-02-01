@@ -152,6 +152,7 @@ Daily problem solved
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/agraharisatyam/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/agraharisatyam/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/agraharisatyam/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/agraharisatyam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/agraharisatyam/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/agraharisatyam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/agraharisatyam/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -321,6 +322,7 @@ Daily problem solved
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/agraharisatyam/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/agraharisatyam/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/agraharisatyam/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/agraharisatyam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/agraharisatyam/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
@@ -465,6 +467,7 @@ Daily problem solved
 | [2140-longest-subsequence-repeated-k-times](https://github.com/agraharisatyam/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/agraharisatyam/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/agraharisatyam/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/agraharisatyam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/agraharisatyam/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/agraharisatyam/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/agraharisatyam/leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
