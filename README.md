@@ -30,6 +30,7 @@ Daily problem solved
 | [2685-first-completely-painted-row-or-column](https://github.com/agraharisatyam/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/agraharisatyam/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/agraharisatyam/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/agraharisatyam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/agraharisatyam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/agraharisatyam/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/agraharisatyam/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -153,6 +154,7 @@ Daily problem solved
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/agraharisatyam/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/agraharisatyam/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/agraharisatyam/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/agraharisatyam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/agraharisatyam/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/agraharisatyam/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/agraharisatyam/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -257,6 +259,7 @@ Daily problem solved
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/agraharisatyam/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/agraharisatyam/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/agraharisatyam/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/agraharisatyam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/agraharisatyam/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/agraharisatyam/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
@@ -442,6 +445,7 @@ Daily problem solved
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/agraharisatyam/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/agraharisatyam/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/agraharisatyam/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3483-alternating-groups-ii](https://github.com/agraharisatyam/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/agraharisatyam/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/agraharisatyam/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
