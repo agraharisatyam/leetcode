@@ -285,6 +285,7 @@ Daily problem solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/agraharisatyam/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0684-redundant-connection](https://github.com/agraharisatyam/leetcode/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/agraharisatyam/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/agraharisatyam/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -398,6 +399,7 @@ Daily problem solved
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/agraharisatyam/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/agraharisatyam/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -406,6 +408,7 @@ Daily problem solved
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/agraharisatyam/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/agraharisatyam/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/agraharisatyam/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
